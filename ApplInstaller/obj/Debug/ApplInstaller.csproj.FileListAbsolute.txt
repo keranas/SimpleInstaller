@@ -1,0 +1,13 @@
+D:\visual studio 2012\Projects\ApplInstaller\bin\Debug\ApplInstaller.exe.config
+D:\visual studio 2012\Projects\ApplInstaller\bin\Debug\ApplInstaller.exe
+D:\visual studio 2012\Projects\ApplInstaller\bin\Debug\ApplInstaller.pdb
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.csprojAssemblyReference.cache
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.Form1.resources
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.Properties.Resources.resources
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.csproj.GenerateResource.cache
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.csproj.CoreCompileInputs.cache
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.exe
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.pdb
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\ApplInstaller.csproj.ResolveComReference.cache
+D:\visual studio 2012\Projects\ApplInstaller\obj\Debug\Interop.XceedZipLib.dll
